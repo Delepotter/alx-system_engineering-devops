@@ -1,0 +1,15 @@
+total 52
+-rwxr--r-- 1 root root  32 Feb 13 11:03 0-hello_world
+-rwxr--r-- 1 root root  28 Feb 13 20:08 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 13 20:15 2-hellofile
+-rwxr--r-- 1 root root  39 Feb 13 20:21 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 13 20:45 4-lastlines
+-rwxr--r-- 1 root root  25 Feb 13 20:34 4-lastlines~
+-rwxr--r-- 1 root root  29 Feb 13 20:42 5-firstlines
+-rwxr--r-- 1 root root  44 Feb 13 20:57 6-third_line
+-rwxr--r-- 1 root root  91 Feb 14 10:15 7-file
+-rwxr--r-- 1 root root  89 Feb 14 10:12 7-file~
+-rwxr--r-- 1 root root  32 Feb 14 10:21 8-cwd_state
+-rw-r--r-- 1 root root   0 Feb 14 10:22 check
+-rw-r--r-- 1 root root 123 Feb 13 21:20 iacta
+-rw-r--r-- 1 root root  27 Feb 13 05:01 README.md
